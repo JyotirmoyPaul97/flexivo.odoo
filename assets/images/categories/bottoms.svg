@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Black Flexivo training shorts illustration">
+  <defs>
+    <linearGradient id="fabric" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#343434"/><stop offset=".48" stop-color="#121212"/><stop offset="1" stop-color="#252525"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7f1518"/><stop offset=".5" stop-color="#e33a3d"/><stop offset="1" stop-color="#821a1d"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#000" flood-opacity=".45"/></filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <path d="M102 87 Q210 69 318 87 L335 142 Q324 205 318 337 Q280 354 224 341 L210 231 L196 341 Q140 354 102 337 Q96 205 85 142Z" fill="url(#fabric)" stroke="#777" stroke-opacity=".52" stroke-width="3"/>
+    <path d="M102 87 Q210 69 318 87 L326 117 Q210 105 94 117Z" fill="#1d1d1d" stroke="#8e2224" stroke-width="4"/>
+    <path d="M108 132 Q125 207 127 327 Q146 338 171 337 Q163 240 166 137Z" fill="url(#panel)" opacity=".95"/>
+    <path d="M312 132 Q295 207 293 327 Q274 338 249 337 Q257 240 254 137Z" fill="url(#panel)" opacity=".95"/>
+    <path d="M210 108 L210 226" fill="none" stroke="#9b9b9b" stroke-opacity=".45" stroke-width="2"/>
+    <path d="M98 321 Q147 336 197 325 M223 325 Q273 336 322 321" fill="none" stroke="#bdbdbd" stroke-opacity=".42" stroke-width="2"/>
+    <path d="M121 148 L156 148 M264 148 L299 148" stroke="#f3f3f3" stroke-opacity=".45" stroke-width="2"/>
+    <text x="210" y="185" fill="#e8e8e8" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">FLEXIVO</text>
+    <path d="M188 194 L232 194" stroke="#c12626" stroke-width="3"/>
+  </g>
+</svg>
